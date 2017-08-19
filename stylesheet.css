@@ -1,0 +1,61 @@
+#headerwallpaper {
+    background-image: url('https://www.ikt-s.com/wp-content/uploads/2015/10/notebook-1971495_1920.jpg');
+    background-position:center;
+    background-repeat: no-repeat;
+    background-size:cover;
+    padding: 0;
+    margin: 0 auto;
+}
+
+
+#largeh5{
+    
+    border-bottom: 1px solid white;
+    width: 30%;
+    margin: 0 auto;
+    margin-bottom: 55px;
+    padding-bottom: 7px;
+}
+
+
+#wallpaperwrapper {
+    background-color: rgba(0,0,0,0.7);
+    margin: 0 auto;
+    padding-top: 8%;
+    padding-bottom: 125px;
+    text-align: center;
+    color: white;
+}
+
+#headerheading {
+    width: 60%;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    margin: 0 auto;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.fa {
+    font-size: 35px;
+    border: 1px solid white;
+    border-radius: 60px;
+    padding: 20px;
+    margin-bottom: 10px;
+    transition: 0.5s;
+}
+
+#containerwidth {
+    width: 70%;
+}
+
+.row .link a {
+    text-decoration: none;
+    color: white;
+}
+
+.fa:hover {
+    border-color: aqua;
+    color: aqua;
+    opacity: 0.4;
+    
+}
